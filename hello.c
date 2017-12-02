@@ -2,6 +2,5 @@
 
 int main()
 {
-    printf("hi");
-    //ã€ã€
+    printf("hi£¬Geek");
 }
